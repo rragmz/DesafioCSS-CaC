@@ -25,7 +25,7 @@ header nav ul{
 }
 
 header nav ul li a{
-    font-size: 0.7rem;
+    font-size: 1rem;
     padding: 3px;
     color: rgb(77, 0, 150);
     text-transform: lowercase;
@@ -45,11 +45,11 @@ main section img{
     margin-left: 30px;
 }
 main section p{
-    font-size: 0.7rem;
+    font-size: 1.1rem;
 }
 
 footer{
     background-color: grey;
-    font-size: 0.7rem;
+    font-size: 1.1rem;
     text-align: center;
 }
